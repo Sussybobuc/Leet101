@@ -7,4 +7,4 @@ class Solution:
         left_half = s[:n // 2]
         right_half = s[-(n // 2):][::-1]  
         return s.startswith(right_half)
-  
+  # i did not use normal method to solve this algorithm, i use the startwith() to compare both side and manually throw out the middle number of odds index. Pretty cool right?
