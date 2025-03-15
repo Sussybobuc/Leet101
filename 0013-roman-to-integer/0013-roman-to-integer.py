@@ -5,8 +5,7 @@ class Solution(object):
             'C': 100, 'D': 500, 'M': 1000
         }
         total = 0
-        prev_value = 0
-        
+        prev_value = 0        
         for char in reversed(s):
             curr_value = roman[char]
             if curr_value < prev_value:
