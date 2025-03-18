@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Sussybobuc/Leet101/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sussybobuc/Leet101/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/Sussybobuc/Leet101/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sussybobuc/Leet101/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Sussybobuc/Leet101/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
