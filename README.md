@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sussybobuc/Leet101/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Sussybobuc/Leet101/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Sussybobuc/Leet101/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Sussybobuc/Leet101/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sussybobuc/Leet101/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Sussybobuc/Leet101/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Sussybobuc/Leet101/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Sussybobuc/Leet101/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Sussybobuc/Leet101/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Sussybobuc/Leet101/tree/master/0742-to-lower-case) |
 ## Array
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sussybobuc/Leet101/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Sussybobuc/Leet101/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Sussybobuc/Leet101/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
@@ -55,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Sussybobuc/Leet101/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Sussybobuc/Leet101/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
