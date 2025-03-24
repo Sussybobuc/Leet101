@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sussybobuc/Leet101/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sussybobuc/Leet101/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Sussybobuc/Leet101/tree/master/0415-add-strings) |
+| [2383-add-two-integers](https://github.com/Sussybobuc/Leet101/tree/master/2383-add-two-integers) |
 ## String
 |  |
 | ------- |
