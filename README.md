@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sussybobuc/Leet101/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sussybobuc/Leet101/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Sussybobuc/Leet101/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sussybobuc/Leet101/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sussybobuc/Leet101/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Sussybobuc/Leet101/tree/master/0415-add-strings) |
@@ -60,6 +61,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sussybobuc/Leet101/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Sussybobuc/Leet101/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Sussybobuc/Leet101/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Sussybobuc/Leet101/tree/master/0645-set-mismatch) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Sussybobuc/Leet101/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
