@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Sussybobuc/Leet101/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/Sussybobuc/Leet101/tree/master/0415-add-strings) |
 | [2383-add-two-integers](https://github.com/Sussybobuc/Leet101/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Sussybobuc/Leet101/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Sussybobuc/Leet101/tree/master/2556-convert-the-temperature) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sussybobuc/Leet101/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/Sussybobuc/Leet101/tree/master/2491-smallest-even-multiple) |
 ## Two Pointers
 |  |
 | ------- |
