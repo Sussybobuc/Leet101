@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sussybobuc/Leet101/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sussybobuc/Leet101/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Sussybobuc/Leet101/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/Sussybobuc/Leet101/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Sussybobuc/Leet101/tree/master/0742-to-lower-case) |
 ## Array
 |  |
