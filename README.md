@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sussybobuc/Leet101/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Sussybobuc/Leet101/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Sussybobuc/Leet101/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/Sussybobuc/Leet101/tree/master/0812-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sussybobuc/Leet101/tree/master/0292-nim-game) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Sussybobuc/Leet101/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
