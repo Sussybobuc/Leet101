@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Sussybobuc/Leet101/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Sussybobuc/Leet101/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sussybobuc/Leet101/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Sussybobuc/Leet101/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Sussybobuc/Leet101/tree/master/0415-add-strings) |
 | [2383-add-two-integers](https://github.com/Sussybobuc/Leet101/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Sussybobuc/Leet101/tree/master/2491-smallest-even-multiple) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sussybobuc/Leet101/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/Sussybobuc/Leet101/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
