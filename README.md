@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sussybobuc/Leet101/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Sussybobuc/Leet101/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Sussybobuc/Leet101/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Sussybobuc/Leet101/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Sussybobuc/Leet101/tree/master/0645-set-mismatch) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sussybobuc/Leet101/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Sussybobuc/Leet101/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
