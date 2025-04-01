@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sussybobuc/Leet101/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sussybobuc/Leet101/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sussybobuc/Leet101/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Sussybobuc/Leet101/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sussybobuc/Leet101/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sussybobuc/Leet101/tree/master/0263-ugly-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sussybobuc/Leet101/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Sussybobuc/Leet101/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sussybobuc/Leet101/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Sussybobuc/Leet101/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sussybobuc/Leet101/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Sussybobuc/Leet101/tree/master/0415-add-strings) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sussybobuc/Leet101/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sussybobuc/Leet101/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Sussybobuc/Leet101/tree/master/0415-add-strings) |
 ## Number Theory
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sussybobuc/Leet101/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sussybobuc/Leet101/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Sussybobuc/Leet101/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Sussybobuc/Leet101/tree/master/0231-power-of-two) |
