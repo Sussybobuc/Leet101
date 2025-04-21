@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Sussybobuc/Leet101/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Sussybobuc/Leet101/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Sussybobuc/Leet101/tree/master/0812-rotate-string) |
+| [1205-defanging-an-ip-address](https://github.com/Sussybobuc/Leet101/tree/master/1205-defanging-an-ip-address) |
 ## Array
 |  |
 | ------- |
